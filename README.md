@@ -6,7 +6,7 @@
 <h3>Task 1:</h3>
 Write a program that adds the digits in a 2-digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8: 
 <p align="center">
-<img src="https://i.imgur.com/Pcukj6l.png" height="80%" width="80%" alt="additon"/>
+<img src="https://i.imgur.com/Pcukj6l.png" height="80%" width="80%" alt="addition"/>
 </p>
 <br />
 <br />
@@ -33,7 +33,7 @@ Create a Tip Calculator. The program will take into account 3 different variable
 <p align="center">
 <img src="https://i.imgur.com/muLupyx.png" height="80%" width="80%" alt="Tip"/>
 </p><br />
-I had to look up how to format the bill so that it always shows 2 decimal places. The {:.2f} forces Python to format the answer correctly.
+I had to look up how to format the bill so that it always shows 2 decimal places. The {:.2f} code forces Python to format the answer correctly.
 <br />
 <br />
 <br />
