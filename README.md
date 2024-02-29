@@ -1,6 +1,6 @@
 <h1> Python: 100 Days of Coding Challenge: Day 2</h1>
 <h2>Description</h2>
-<p>Today I am learned about Data Types, Number Operators, Type Conversions, and f-strings. At the end of today, I am going to build a Tip Calculator.</p>
+<p>Today I learned about Data Types, Number Operators, Type Conversions, and f-strings. At the end of today, I am going to build a Tip Calculator.</p>
 <br />
 
 <h3>Task 1:</h3>
